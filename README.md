@@ -7,7 +7,7 @@ This project visually demonstrates how different types of props work in real-wor
 
 ## 🌐 Live Demo
 
-🔗 [https://your-project-live-link.vercel.app](https://your-project-live-link.vercel.app)
+🔗 [Live Demo](https://prop-guide-project.netlify.app/)
 
 ---
 
