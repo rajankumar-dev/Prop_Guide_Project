@@ -117,23 +117,11 @@ prop-guide-project/
 
 ### 🔹 Basic Props
 
-![Basic Props](images/basic-props.png)
-
-### 🔹 Children Props
-
-![Children Props](images/children-props.png)
-
-### 🔹 Complex / Nested Props
-
-![Complex Props](images/complex-props.png)
-
-### 🔹 Ref Props
-
-![Ref Props](images/ref-props.png)
+![Basic Props](https://github.com/rajankumar-dev/Prop_Guide_Project/blob/main/public/screenshots/img_1.png?raw=true)
 
 ### 🔹 Theme Props
 
-![Theme Props](images/theme-props.png)
+![Theme Props](https://github.com/rajankumar-dev/Prop_Guide_Project/blob/main/public/screenshots/img_4.png?raw=true)
 
 ---
 
