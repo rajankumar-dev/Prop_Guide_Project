@@ -123,20 +123,6 @@ prop-guide-project/
 └── README.md
 ```
 
----
-
-## 📸 Screenshots
-
-### 🔹 Basic Props
-
-![Basic Props](https://github.com/rajankumar-dev/Prop_Guide_Project/blob/main/public/screenshots/img_1.png?raw=true)
-
-### 🔹 Theme Props
-
-![Theme Props](https://github.com/rajankumar-dev/Prop_Guide_Project/blob/main/public/screenshots/img_4.png?raw=true)
-
----
-
 ## ▶️ How to Run Locally
 
 ```bash
