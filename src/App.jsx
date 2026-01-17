@@ -64,10 +64,10 @@ function AppContent() {
             <BasicProps />
           </div>
           <div id="ref" className="scroll-mt-200">
-            <RefProps />
+            <ChildrenProps />
           </div>
           <div id="children" className="scroll-mt-200">
-            <ChildrenProps />
+            <refProps />
           </div>
           <div id="complex" className="scroll-mt-200">
             <ComplexProps />
